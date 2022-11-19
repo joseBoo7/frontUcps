@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0aa9f1"],{1293:function(t,n,e){"use strict";e.r(n);var o=function(){var t=this,n=t.$createElement,e=t._self._c||n;return e("div")},i=[],u={props:{id:{type:String,default:null}},created:function(){"dutic"==this.id&&(window.location.href="https://classroom.google.com/u/0/h"),"soporte"==this.id&&(window.location.href="https://www.unsa.edu.pe/ucps/tutorial-estudiantil/")}},s=u,l=e("2877"),a=Object(l["a"])(s,o,i,!1,null,null,null);n["default"]=a.exports}}]);
+//# sourceMappingURL=chunk-2d0aa9f1.7c3a3066.js.map
